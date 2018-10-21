@@ -31,7 +31,7 @@ namespace JsonParser
         private void progressChanged(object sender, DownloadProgressChangedEventArgs e)
         {
             progressBar.Value = e.ProgressPercentage;
-            messageText.Text = Constants.MSG_DOWNLOAD_PROGRESS + e.BytesReceived + progressBar.Value;
+            messageText.Text = String.Concat(Constants.MSG_DOWNLOAD_PROGRESS, e.BytesReceived, progressBar.Value);
         }
 
 
