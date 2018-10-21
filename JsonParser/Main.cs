@@ -38,14 +38,7 @@ namespace JsonParser
         private void completed(object sender, AsyncCompletedEventArgs e)
         {
             progressBar.Value = 0;
-            if (e.Error != null)
-            {
-                messageText.Text = e.Error.Message;
-            }
-            else
-            {
-                messageText.Text = Constants.MSG_DOWNLOAD_COMPLETED;
-            }
+            messageText.Text = (e.Error != null) ? e.Error.Message : Constants.MSG_DOWNLOAD_COMPLETED;
         }
 
 
