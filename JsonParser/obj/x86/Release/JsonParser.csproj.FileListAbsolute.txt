@@ -1,0 +1,9 @@
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\bin\Release\JsonParser.exe
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\bin\Release\JsonParser.pdb
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\obj\x86\Release\JsonParser.csprojAssemblyReference.cache
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\obj\x86\Release\JsonParser.frmMain.resources
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\obj\x86\Release\JsonParser.Properties.Resources.resources
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\obj\x86\Release\JsonParser.csproj.GenerateResource.cache
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\obj\x86\Release\JsonParser.csproj.CoreCompileInputs.cache
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\obj\x86\Release\JsonParser.exe
+K:\Docs\work\Projects\C#\JsonParser\JsonParser\obj\x86\Release\JsonParser.pdb

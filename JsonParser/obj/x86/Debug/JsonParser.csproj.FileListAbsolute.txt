@@ -1,0 +1,8 @@
+K:\Docs\work\Projects\C#\parser-json-to-csv-Csharp-example\JsonParser\bin\Debug\JsonParser.exe
+K:\Docs\work\Projects\C#\parser-json-to-csv-Csharp-example\JsonParser\bin\Debug\JsonParser.pdb
+K:\Docs\work\Projects\C#\parser-json-to-csv-Csharp-example\JsonParser\obj\x86\Debug\JsonParser.frmMain.resources
+K:\Docs\work\Projects\C#\parser-json-to-csv-Csharp-example\JsonParser\obj\x86\Debug\JsonParser.Properties.Resources.resources
+K:\Docs\work\Projects\C#\parser-json-to-csv-Csharp-example\JsonParser\obj\x86\Debug\JsonParser.csproj.GenerateResource.cache
+K:\Docs\work\Projects\C#\parser-json-to-csv-Csharp-example\JsonParser\obj\x86\Debug\JsonParser.csproj.CoreCompileInputs.cache
+K:\Docs\work\Projects\C#\parser-json-to-csv-Csharp-example\JsonParser\obj\x86\Debug\JsonParser.exe
+K:\Docs\work\Projects\C#\parser-json-to-csv-Csharp-example\JsonParser\obj\x86\Debug\JsonParser.pdb
